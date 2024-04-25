@@ -1,0 +1,3 @@
+SHOW Enter something to reverse..
+FLIP
+VOICE

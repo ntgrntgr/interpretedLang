@@ -1,0 +1,4 @@
+SHOW Enter two single-digit numbers to multiply:
+COMBINE
+
+

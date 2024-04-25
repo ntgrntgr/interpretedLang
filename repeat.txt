@@ -1,0 +1,5 @@
+SHOW Enter a character(s) to repeat
+SHOW Then the number of times to repeat the character
+DUPLICATE
+
+
